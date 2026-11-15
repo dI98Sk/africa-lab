@@ -1,0 +1,14 @@
+# окружение
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.idea/
+.DS_Store
+
+# данные: в git только манифест, всё остальное пересобирается
+data/raw/*
+!data/raw/MANIFEST.md
+data/interim/*
+!data/interim/.gitkeep
+*.duckdb
+*.duckdb.wal
