@@ -5,3 +5,4 @@
 
 | Датасет | Версия | Файл | URL | Скачано | SHA-256 |
 |---|---|---|---|---|---|
+| WDI | API v2, снимок 20261116 | wdi_snapshot_20261116.json | https://api.worldbank.org/v2 | 2026-11-16 | 4f2445681ccf11a88d6a52d08c1cd37a8343794da8808367bfd1c5a8b60cac9d |
